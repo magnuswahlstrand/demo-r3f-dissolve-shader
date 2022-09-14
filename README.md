@@ -6,7 +6,7 @@ A small showcase of a dissolve shader. Inspired by the Shader chapter in [Bruno 
 
 ## Live Demo
 
-Head over to https://demo-threejs-fiber-rooms.vercel.app/ to see the project live.
+Head over to https://demo-r3f-dissolve-shader.vercel.app/ to see the project live.
 
 ## Running locally
 
